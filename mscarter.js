@@ -1,9 +1,9 @@
 
 function albumchanger() {
-    mybeyoncealbumHeader.innerHTML = "Mortal Kombat";
-    mybeyoncealbumParagraph.innerHTML = "I like MORTAL KOMBAT!!!"
-    myGameHeader.style.color = "lightblue";
-    myGameHeader.style.backgroundColor = "navy";
+    mybeyoncealbumHeader.innerHTML = "Which Beyonce Album";
+    mybeyoncealbumParagraph.innerHTML = "I love Renissance!!!"
+    mybeyoncealbumHeader.style.color = "lightblue";
+    mybeyoncealbum.style.backgroundColor = "navy";
   }
   
-  myGameButton.onclick = gameChanger;
+  mybeyoncealbumButton.onclick = albumchangerChanger;
